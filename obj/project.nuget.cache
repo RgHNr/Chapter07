@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3KdAbwEdvdKkLu5EURN4xkZcMxmZHCDEmpCRdsQH9kfLUA5rG7765RB9Q5+9G2uqvGH3u3M89COmFrePHWKVCQ==",
+  "dgSpecHash": "26kmETldRiMaPmc2SAkWLOdCGeUcoVGfpC2k4Z5C3ug9/IdmUWkZIH7awI4a5vN3oXctyEZL/gcBnI7n3iH+Sg==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\Desktop\\chapter07\\chapter07.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

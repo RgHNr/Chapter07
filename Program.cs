@@ -1,6 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using CsvHelper;
+
+
+
 Console.WriteLine("Start of code");
+
 
 //var data = AccessData.GetData().Take(2);
 

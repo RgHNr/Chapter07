@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\chapter07\\chapter07.csproj": {}
+    "C:\\Users\\PC\\Desktop\\chapter07\\CsvTest\\CsvTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\chapter07\\chapter07.csproj": {
+    "C:\\Users\\PC\\Desktop\\chapter07\\CsvTest\\CsvTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\chapter07\\chapter07.csproj",
-        "projectName": "chapter07",
-        "projectPath": "C:\\Users\\PC\\Desktop\\chapter07\\chapter07.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\chapter07\\CsvTest\\CsvTest.csproj",
+        "projectName": "CsvTest",
+        "projectPath": "C:\\Users\\PC\\Desktop\\chapter07\\CsvTest\\CsvTest.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\chapter07\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\chapter07\\CsvTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "CsvHelper": {
-              "target": "Package",
-              "version": "[30.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
